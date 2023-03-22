@@ -1,0 +1,43 @@
+
+
+
+
+
+* {
+    margin: 10px;
+}
+
+header h1{
+    background-color: rgba(77, 77, 77, 0.264);
+    margin-top: auto;
+    padding-left: 750px;
+}
+
+header h2{
+    background-color: rgba(77, 77, 77, 0.264);
+    margin-top: auto;
+    padding-left: 580px;
+}
+
+main {
+    background-color: rgba(242, 242, 221, 0.264);
+    padding: 10px;
+
+}
+
+footer {
+    background-color: rgb(78, 78, 78);
+    font-weight: 700;
+    padding: 10px;
+}
+
+hr {
+    border-top: 2px solid orange !important;
+}
+
+.div-cotizar {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
